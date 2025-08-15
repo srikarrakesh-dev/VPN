@@ -32,13 +32,13 @@ Test Encryption and Traffic:
 
 Visit HTTPS websites (like Gmail, Reddit, etc.) and check if they load securely.
 
-Confirm the green padlock (🔒) in your browser address bar = encrypted.
+Confirm the green padlock icon in browser address bar = encrypted.
 
 Disconnect VPN:
 
 Disconnect from the server and compare the new IP address (again via whatismyipaddress.com).
 
-Also note any change in browsing speed.
+And also noted any change in browsing speed.
 
 
 
