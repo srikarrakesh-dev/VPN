@@ -1,0 +1,109 @@
+Task 8: Identifying/removing suspicious browser extensions
+
+
+VPN Setup Steps 
+VPN Setup Steps (Using ProtonVPN Free Tier as example):
+
+Sign Up:
+
+Go to https://protonvpn.com and create a free account.
+
+Download VPN Client:
+
+Download ProtonVPN client for your OS (Windows, macOS, Linux, Android, iOS).
+
+Install and Open VPN Client:
+
+Log in with your account.
+
+Connect to a VPN Server:
+
+Choose the nearest free server (e.g., Netherlands, US, Japan).
+
+Click "Connect".
+
+Verify IP Address:
+
+Go to https://whatismyipaddress.com
+
+Note your new IP address and location.
+
+Test Encryption and Traffic:
+
+Visit HTTPS websites (like Gmail, Reddit, etc.) and check if they load securely.
+
+Confirm the green padlock (🔒) in your browser address bar = encrypted.
+
+Disconnect VPN:
+
+Disconnect from the server and compare the new IP address (again via whatismyipaddress.com).
+
+Also note any change in browsing speed.
+
+
+
+
+
+
+
+
+Interview Questions – Answers
+1. What is a VPN?
+
+A Virtual Private Network (VPN) creates a secure and encrypted connection between your device and the internet, masking your IP address and encrypting your data.
+
+2. How does a VPN protect privacy?
+
+It encrypts all data traffic, making it unreadable to ISPs, hackers, or surveillance. It also hides your IP address, preventing location and identity tracking.
+
+3. Difference between VPN and Proxy?
+Feature	VPN	Proxy
+Encryption	Yes	No
+Speed	Slightly slower	Faster
+Anonymity	Higher	Lower
+Traffic Type	Whole device/app traffic	Only browser/app configured
+Security Level	High	Low
+4. What is encryption in VPN?
+
+Encryption is the process of encoding data so only authorized parties can read it. VPNs use encryption (like AES-256) to protect data in transit from being intercepted.
+
+5. Can VPN guarantee complete anonymity?
+
+No, VPNs improve privacy but do not guarantee full anonymity. VPN providers can still log activity unless they follow a strict no-logs policy. Also, websites can still track you via cookies or browser fingerprinting.
+
+6. What protocols do VPNs use?
+
+Common protocols include:
+
+OpenVPN – Secure and open-source
+
+IKEv2/IPSec – Fast and mobile-friendly
+
+WireGuard – Lightweight and very fast
+
+L2TP/IPSec – Older and less secure
+
+PPTP – Deprecated, insecure
+
+7. What are some VPN limitations?
+
+Speed reduction
+
+Doesn’t prevent malware or phishing
+
+Not 100% anonymous
+
+VPN servers may be blocked by websites
+
+May not work in countries with heavy censorship (e.g., China)
+
+8. How does a VPN affect network speed?
+
+It may reduce your speed due to:
+
+Encryption overhead
+
+Distance to the VPN server
+
+Server load (especially on free plans)
+Still, modern VPNs like WireGuard minimize this impact.
